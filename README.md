@@ -8,4 +8,4 @@ adding alt attributes, updating classes, and updating some CSS rules.
 
 ## Screenshot of your deployed app
 
-![Screenshot](./assets/images/lead-generation.png)
+[Screenshot](./assets/images/Challenge 1.png)
